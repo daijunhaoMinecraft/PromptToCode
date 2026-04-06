@@ -13,3 +13,4 @@ python main.py helloworld.prompt https://api.moonshot.cn/v1 sk-xxx moonshot-v1-8
 # 截图
 <img width="1462" height="73" alt="image" src="https://github.com/user-attachments/assets/21ceb0fa-7ae9-4b7e-ad1c-016487ab2039" />
 <img width="1849" height="226" alt="image" src="https://github.com/user-attachments/assets/3279337b-b1e2-4eec-a89b-1870aa54aa94" />
+<img width="345" height="69" alt="image" src="https://github.com/user-attachments/assets/f6014996-38ae-4cbe-9d97-455c870ea6c6" />
