@@ -9,3 +9,6 @@ pip install openai
 python main.py <Prompt File> <API_BASE> <API_KEY> <Model><br/>
 例子:<br/>
 python main.py helloworld.prompt https://api.moonshot.cn/v1 sk-xxx moonshot-v1-8k<br/>
+
+# 截图
+<img width="1462" height="73" alt="image" src="https://github.com/user-attachments/assets/21ceb0fa-7ae9-4b7e-ad1c-016487ab2039" />
